@@ -1,3 +1,4 @@
+## Код
 ```
 sum_elements([], 0).
 sum_elements([X|Xs], Sum) :- 
